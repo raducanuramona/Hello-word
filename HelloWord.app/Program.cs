@@ -10,6 +10,7 @@ namespace HelloWord.app
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, Word!");
         }
     }
 }
